@@ -31,7 +31,7 @@ setup(
     install_requires=[
         'jsonpickle>=0.4.0',
         'django>=1.4',
-        'djangorestframework>=2.1.3'
+        #'djangorestframework>=2.1.3'
     ],
 
     url='http://github.com/marcgibbons',
